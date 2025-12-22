@@ -68,18 +68,6 @@ Possible error types:
 
 ---
 
-## Project Structure
----
-
-## Notes
-
-- This project is intended for educational purposes.
-- Only one connection is handled per execution.
-- Hamming code is used for encoding only; decoding and correction are not implemented.
-- The | character should not be used inside message content.
-
----
-
 ## Technologies Used
 
 - Python 3
